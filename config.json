@@ -1,21 +1,24 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "exz123"
   },
   "options": {
-    "autoRead": false,
+    "autoRead": true,
     "self": false,
-    "limitCount": 20,
+    "limitCount": 10,
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "ᴹᴿ᭄ Ekนຊikค ×፝֟͜×",
+    "author": "Killua - MD"
   },
   "owner": [
-    "62812xxx"
+    "628889616144",
+    "628889616144",
+    "628889616144",
+    "628889616144"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "footer": "Powered by https://zenzapis.xyz\nRecode By ᴹᴿ᭄ Ekนຊikค ×፝֟͜×"
 }
